@@ -1,0 +1,4 @@
+torch
+discord.py
+asyncio
+diffusers
